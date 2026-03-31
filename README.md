@@ -1,4 +1,9 @@
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&reversal=false&text=Hello&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=30&stroke=-&animation=twinkling&desc=Im%20Jez&descSize=20&descAlign=50&descAlignY=60&textBg=false&color=gradient"  />
+</div>
+
+###
 
 # 💻 Tech Stack:
 ### Languages
@@ -22,3 +27,16 @@
 
 
 <img src="https://raw.githubusercontent.com/JezCortez/JezCortez/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>

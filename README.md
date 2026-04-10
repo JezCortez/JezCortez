@@ -4,8 +4,12 @@
 </div>
 
 ###
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JezCortez&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=JezCortez&theme=tokyonight&hide_border=true)](https://git.io/streak-stats"
+</div>
+  
 ###
+
 
 # 💻 Tech Stack:
 ### Languages

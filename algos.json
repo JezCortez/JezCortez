@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Binary search",
+    "summary": "Finds a target in a sorted array by halving the search range each step.",
+    "time": "O(log n)",
+    "space": "O(1)",
+    "link": "https://en.wikipedia.org/wiki/Binary_search_algorithm"
+  },
+  {
+    "name": "Bubble sort",
+    "summary": "Repeatedly swaps adjacent elements that are out of order until the array is sorted.",
+    "time": "O(n²)",
+    "space": "O(1)",
+    "link": "https://en.wikipedia.org/wiki/Bubble_sort"
+  },
+  {
+    "name": "Merge sort",
+    "summary": "Divides the array in half recursively, then merges sorted halves back together.",
+    "time": "O(n log n)",
+    "space": "O(n)",
+    "link": "https://en.wikipedia.org/wiki/Merge_sort"
+  },
+  {
+    "name": "Quick sort",
+    "summary": "Picks a pivot, partitions elements around it, then recurses on each partition.",
+    "time": "O(n log n) avg",
+    "space": "O(log n)",
+    "link": "https://en.wikipedia.org/wiki/Quicksort"
+  },
+  {
+    "name": "Breadth-first search",
+    "summary": "Explores a graph level by level using a queue — ideal for shortest paths.",
+    "time": "O(V + E)",
+    "space": "O(V)",
+    "link": "https://en.wikipedia.org/wiki/Breadth-first_search"
+  },
+  {
+    "name": "Depth-first search",
+    "summary": "Explores as far as possible down each branch before backtracking.",
+    "time": "O(V + E)",
+    "space": "O(V)",
+    "link": "https://en.wikipedia.org/wiki/Depth-first_search"
+  },
+  {
+    "name": "Dijkstra's algorithm",
+    "summary": "Finds the shortest path from a source to all nodes in a weighted graph.",
+    "time": "O((V + E) log V)",
+    "space": "O(V)",
+    "link": "https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm"
+  },
+  {
+    "name": "Dynamic programming (0/1 knapsack)",
+    "summary": "Builds solutions to subproblems in a table to avoid recomputing overlapping work.",
+    "time": "O(nW)",
+    "space": "O(nW)",
+    "link": "https://en.wikipedia.org/wiki/Knapsack_problem"
+  },
+  {
+    "name": "Two pointers",
+    "summary": "Uses two indices moving toward each other to solve array problems in linear time.",
+    "time": "O(n)",
+    "space": "O(1)",
+    "link": "https://www.geeksforgeeks.org/two-pointers-technique/"
+  },
+  {
+    "name": "Sliding window",
+    "summary": "Maintains a window of elements that slides across an array to track a running result.",
+    "time": "O(n)",
+    "space": "O(1)",
+    "link": "https://www.geeksforgeeks.org/window-sliding-technique/"
+  },
+  {
+    "name": "Floyd's cycle detection",
+    "summary": "Uses fast and slow pointers to detect a cycle in a linked list in constant space.",
+    "time": "O(n)",
+    "space": "O(1)",
+    "link": "https://en.wikipedia.org/wiki/Cycle_detection#Floyd's_tortoise_and_hare"
+  },
+  {
+    "name": "Kadane's algorithm",
+    "summary": "Finds the maximum sum subarray by tracking the best running sum seen so far.",
+    "time": "O(n)",
+    "space": "O(1)",
+    "link": "https://en.wikipedia.org/wiki/Maximum_subarray_problem"
+  },
+  {
+    "name": "Topological sort",
+    "summary": "Orders nodes in a DAG so every directed edge goes from earlier to later in the order.",
+    "time": "O(V + E)",
+    "space": "O(V)",
+    "link": "https://en.wikipedia.org/wiki/Topological_sorting"
+  },
+  {
+    "name": "Union-find (disjoint set)",
+    "summary": "Tracks connected components efficiently using path compression and union by rank.",
+    "time": "O(α(n)) per op",
+    "space": "O(n)",
+    "link": "https://en.wikipedia.org/wiki/Disjoint-set_data_structure"
+  },
+  {
+    "name": "Heap sort",
+    "summary": "Builds a max-heap then repeatedly extracts the maximum to produce a sorted array.",
+    "time": "O(n log n)",
+    "space": "O(1)",
+    "link": "https://en.wikipedia.org/wiki/Heapsort"
+  },
+  {
+    "name": "Backtracking",
+    "summary": "Incrementally builds candidates for a solution and abandons branches that fail constraints.",
+    "time": "O(b^d) worst case",
+    "space": "O(d)",
+    "link": "https://en.wikipedia.org/wiki/Backtracking"
+  },
+  {
+    "name": "Trie (prefix tree)",
+    "summary": "A tree of characters that enables fast prefix search and autocomplete operations.",
+    "time": "O(m) per op",
+    "space": "O(ALPHABET × n)",
+    "link": "https://en.wikipedia.org/wiki/Trie"
+  },
+  {
+    "name": "Bellman-Ford algorithm",
+    "summary": "Finds shortest paths from a source even when edges have negative weights.",
+    "time": "O(VE)",
+    "space": "O(V)",
+    "link": "https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm"
+  },
+  {
+    "name": "Counting sort",
+    "summary": "Sorts integers by counting occurrences — beats O(n log n) when the value range is small.",
+    "time": "O(n + k)",
+    "space": "O(k)",
+    "link": "https://en.wikipedia.org/wiki/Counting_sort"
+  },
+  {
+    "name": "Kruskal's algorithm",
+    "summary": "Builds a minimum spanning tree by greedily adding the cheapest edge that doesn't form a cycle.",
+    "time": "O(E log E)",
+    "space": "O(V)",
+    "link": "https://en.wikipedia.org/wiki/Kruskal%27s_algorithm"
+  }
+]

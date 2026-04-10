@@ -4,6 +4,8 @@
 </div>
 
 ###
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JezCortez&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+###
 
 # 💻 Tech Stack:
 ### Languages
@@ -32,9 +34,15 @@
 
 <br clear="both">
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
+## Algorithm of the week
+
+<!-- ALGO_START -->
+> **Algo of the week: Binary search** — Finds a target in a sorted array by halving the search range each step.
+>
+> Time: `O(log n)` · Space: `O(1)` · [Learn more](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+>
+> *rotates every Monday · [see all algos](algos.json)*
+<!-- ALGO_END -->
 
 ###
 <div>

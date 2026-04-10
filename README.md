@@ -5,7 +5,7 @@
 
 ###
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=JezCortez&theme=tokyonight&hide_border=true)](https://git.io/streak-stats"
+  <img src="https://streak-stats.demolab.com/?user=JezCortez&theme=tokyonight&hide_border=true)](https://git.io/streak-stats">
 </div>
   
 ###

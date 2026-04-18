@@ -1,6 +1,25 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&reversal=false&text=Hello!%F0%9F%91%8B&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=30&stroke=-&animation=twinkling&desc=I'm%20Jez%20%F0%9F%98%8E&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
+<div align="center">
+
+<p>
+  <sub>Ateneo de Davao University · Davao City, Philippines</sub>
+</p>
+
+<p>
+  <a href="https://jezcortez.dev">
+    <img src="https://img.shields.io/badge/Portfolio-jezcortez.dev-5883EF?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="www.linkedin.com/in/jez-kendrick-cortez-8b7580338">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jezcortez31@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+</div>
 
 ###
 <div align="center">
@@ -9,8 +28,14 @@
   
 ###
 
+## 🤖 About
+- 🎓 Bachelor of Science in Computer Science @ **Ateneo de Davao University**
+- 👨🏻‍💻 Software, Web and App Developer
+- 👾 Passionate Gamer
 
-# 💻 Tech Stack:
+###
+
+## 💻 Tech Stack
 ### Languages
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ### Deployments
@@ -37,7 +62,7 @@
 
 <br clear="both">
 
-## Algorithm of the week
+## ⚙️ Algorithm of the week
 
 <!-- ALGO_START -->
 > **Algo of the week: Heap sort** — Builds a max-heap then repeatedly extracts the maximum to produce a sorted array.

@@ -1,9 +1,4 @@
 
-> **Algo of the week: Backtracking** — Incrementally builds candidates for a solution and abandons branches that fail constraints.
->
-> Time: `O(b^d) worst case` · Space: `O(d)` · [Learn more](https://en.wikipedia.org/wiki/Backtracking)
->
-> *rotates every Monday · [see all algos](algos.json)*
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&reversal=false&text=Hello!%F0%9F%91%8B&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=30&stroke=-&animation=twinkling&desc=I'm%20Jez%20%F0%9F%98%8E&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
@@ -71,9 +66,9 @@
 ## ⚙️ Algorithm of the week
 
 <!-- ALGO_START -->
-> **Algo of the week: Heap sort** — Builds a max-heap then repeatedly extracts the maximum to produce a sorted array.
+> **Algo of the week: Backtracking** — Incrementally builds candidates for a solution and abandons branches that fail constraints.
 >
-> Time: `O(n log n)` · Space: `O(1)` · [Learn more](https://en.wikipedia.org/wiki/Heapsort)
+> Time: `O(b^d) worst case` · Space: `O(d)` · [Learn more](https://en.wikipedia.org/wiki/Backtracking)
 >
 > *rotates every Monday · [see all algos](algos.json)*
 <!-- ALGO_END -->

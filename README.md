@@ -26,7 +26,14 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=JezCortez&theme=tokyonight&hide_border=true)](https://git.io/streak-stats">
 </div>
-  
+
+###
+<div align="center">
+<h3>My Badges</h3>
+<a href="https://www.credly.com/badges/2ad83d1e-182a-458a-9ec3-7e29859472c8/public_url">
+  <img src="ccna-introduction-to-networks.png" width="150" alt="My Badge" />
+</a> 
+</div>  
 ###
 
 ## 🤖 About

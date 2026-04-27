@@ -28,12 +28,13 @@
 </div>
 
 ###
-<div align="center">
-<h3>My Badges</h3>
+
+## 🏅 Badges
 <a href="https://www.credly.com/badges/2ad83d1e-182a-458a-9ec3-7e29859472c8/public_url">
   <img src="ccna-introduction-to-networks.png" width="150" alt="My Badge" />
 </a> 
-</div>  
+
+
 
 
 ## 🤖 About

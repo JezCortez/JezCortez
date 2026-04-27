@@ -66,6 +66,10 @@
 
 <img src="https://raw.githubusercontent.com/JezCortez/JezCortez/output/snake.svg" alt="Snake animation" />
 
+<p align="center">
+  <img src="assets/xp-bar.svg" alt="XP bar" />
+</p>
+
 ###
 
 <br clear="both">

@@ -1,0 +1,44 @@
+<svg width="420" height="60" viewBox="0 0 420 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .font { font-family: 'Courier New', monospace; }
+      @media (prefers-color-scheme: dark) {
+        .bg-card { fill: #1e1e2e; }
+        .bg-badge { fill: #3C3489; }
+        .txt-badge { fill: #CECBF6; }
+        .txt-title { fill: #cdd6f4; }
+        .txt-xp { fill: #a6adc8; }
+        .txt-next { fill: #6c7086; }
+        .bar-track { fill: #313244; }
+        .bar-fill { fill: #7F77DD; }
+        .stroke-card { stroke: #313244; }
+      }
+      @media (prefers-color-scheme: light) {
+        .bg-card { fill: #ffffff; }
+        .bg-badge { fill: #EEEDFE; }
+        .txt-badge { fill: #3C3489; }
+        .txt-title { fill: #1e1e2e; }
+        .txt-xp { fill: #5F5E5A; }
+        .txt-next { fill: #888780; }
+        .bar-track { fill: #e5e5e5; }
+        .bar-fill { fill: #7F77DD; }
+        .stroke-card { stroke: #e5e5e5; }
+      }
+    </style>
+  </defs>
+
+  <rect width="420" height="60" rx="10" class="bg-card stroke-card" stroke-width="0.5"/>
+
+  <rect x="14" y="14" width="52" height="32" rx="6" class="bg-badge"/>
+  <text x="40" y="26" text-anchor="middle" class="font txt-badge" font-size="11" font-weight="500">Lv.</text>
+  <text x="40" y="40" text-anchor="middle" class="font txt-badge" font-size="16" font-weight="700">2</text>
+
+  <text x="76" y="20" class="font txt-title" font-size="12" font-weight="500">Bug Hunter</text>
+  <text x="406" y="20" text-anchor="end" class="font txt-xp" font-size="11">276 / 300 XP</text>
+
+  <rect x="76" y="26" width="330" height="8" rx="4" class="bar-track"/>
+  <rect x="76" y="26" width="251" height="8" rx="4" class="bar-fill"/>
+
+  <text x="76" y="48" class="font txt-next" font-size="10">24 commits to Lv. 3</text>
+  <text x="406" y="48" text-anchor="end" class="font txt-next" font-size="10">updated weekly</text>
+</svg>

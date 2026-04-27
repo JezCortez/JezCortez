@@ -34,14 +34,13 @@
   <img src="ccna-introduction-to-networks.png" width="150" alt="My Badge" />
 </a> 
 </div>  
-###
+
 
 ## 🤖 About
 - 🎓 Bachelor of Science in Computer Science @ **Ateneo de Davao University**
 - 👨🏻‍💻 Software, Web and App Developer
 - 👾 Passionate Gamer
 
-###
 
 ## 💻 Tech Stack
 ### Languages

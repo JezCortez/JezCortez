@@ -77,9 +77,9 @@
 ## ⚙️ Algorithm of the week
 
 <!-- ALGO_START -->
-> **Algo of the week: Trie (prefix tree)** — A tree of characters that enables fast prefix search and autocomplete operations.
+> **Algo of the week: Bellman-Ford algorithm** — Finds shortest paths from a source even when edges have negative weights.
 >
-> Time: `O(m) per op` · Space: `O(ALPHABET × n)` · [Learn more](https://en.wikipedia.org/wiki/Trie)
+> Time: `O(VE)` · Space: `O(V)` · [Learn more](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm)
 >
 > *rotates every Monday · [see all algos](algos.json)*
 <!-- ALGO_END -->

@@ -77,9 +77,9 @@
 ## ⚙️ Algorithm of the week
 
 <!-- ALGO_START -->
-> **Algo of the week: Counting sort** — Sorts integers by counting occurrences — beats O(n log n) when the value range is small.
+> **Algo of the week: Kruskal's algorithm** — Builds a minimum spanning tree by greedily adding the cheapest edge that doesn't form a cycle.
 >
-> Time: `O(n + k)` · Space: `O(k)` · [Learn more](https://en.wikipedia.org/wiki/Counting_sort)
+> Time: `O(E log E)` · Space: `O(V)` · [Learn more](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm)
 >
 > *rotates every Monday · [see all algos](algos.json)*
 <!-- ALGO_END -->

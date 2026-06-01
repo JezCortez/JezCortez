@@ -77,9 +77,9 @@
 ## ⚙️ Algorithm of the week
 
 <!-- ALGO_START -->
-> **Algo of the week: Binary search** — Finds a target in a sorted array by halving the search range each step.
+> **Algo of the week: Bubble sort** — Repeatedly swaps adjacent elements that are out of order until the array is sorted.
 >
-> Time: `O(log n)` · Space: `O(1)` · [Learn more](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+> Time: `O(n²)` · Space: `O(1)` · [Learn more](https://en.wikipedia.org/wiki/Bubble_sort)
 >
 > *rotates every Monday · [see all algos](algos.json)*
 <!-- ALGO_END -->

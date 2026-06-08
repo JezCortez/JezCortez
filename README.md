@@ -77,9 +77,9 @@
 ## ⚙️ Algorithm of the week
 
 <!-- ALGO_START -->
-> **Algo of the week: Bubble sort** — Repeatedly swaps adjacent elements that are out of order until the array is sorted.
+> **Algo of the week: Merge sort** — Divides the array in half recursively, then merges sorted halves back together.
 >
-> Time: `O(n²)` · Space: `O(1)` · [Learn more](https://en.wikipedia.org/wiki/Bubble_sort)
+> Time: `O(n log n)` · Space: `O(n)` · [Learn more](https://en.wikipedia.org/wiki/Merge_sort)
 >
 > *rotates every Monday · [see all algos](algos.json)*
 <!-- ALGO_END -->

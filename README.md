@@ -77,9 +77,9 @@
 ## ⚙️ Algorithm of the week
 
 <!-- ALGO_START -->
-> **Algo of the week: Quick sort** — Picks a pivot, partitions elements around it, then recurses on each partition.
+> **Algo of the week: Breadth-first search** — Explores a graph level by level using a queue — ideal for shortest paths.
 >
-> Time: `O(n log n) avg` · Space: `O(log n)` · [Learn more](https://en.wikipedia.org/wiki/Quicksort)
+> Time: `O(V + E)` · Space: `O(V)` · [Learn more](https://en.wikipedia.org/wiki/Breadth-first_search)
 >
 > *rotates every Monday · [see all algos](algos.json)*
 <!-- ALGO_END -->

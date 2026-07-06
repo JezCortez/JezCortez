@@ -77,9 +77,9 @@
 ## ⚙️ Algorithm of the week
 
 <!-- ALGO_START -->
-> **Algo of the week: Depth-first search** — Explores as far as possible down each branch before backtracking.
+> **Algo of the week: Dijkstra's algorithm** — Finds the shortest path from a source to all nodes in a weighted graph.
 >
-> Time: `O(V + E)` · Space: `O(V)` · [Learn more](https://en.wikipedia.org/wiki/Depth-first_search)
+> Time: `O((V + E) log V)` · Space: `O(V)` · [Learn more](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
 >
 > *rotates every Monday · [see all algos](algos.json)*
 <!-- ALGO_END -->

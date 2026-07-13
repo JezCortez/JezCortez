@@ -77,9 +77,9 @@
 ## ⚙️ Algorithm of the week
 
 <!-- ALGO_START -->
-> **Algo of the week: Dijkstra's algorithm** — Finds the shortest path from a source to all nodes in a weighted graph.
+> **Algo of the week: Dynamic programming (0/1 knapsack)** — Builds solutions to subproblems in a table to avoid recomputing overlapping work.
 >
-> Time: `O((V + E) log V)` · Space: `O(V)` · [Learn more](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+> Time: `O(nW)` · Space: `O(nW)` · [Learn more](https://en.wikipedia.org/wiki/Knapsack_problem)
 >
 > *rotates every Monday · [see all algos](algos.json)*
 <!-- ALGO_END -->

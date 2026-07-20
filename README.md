@@ -77,9 +77,9 @@
 ## ⚙️ Algorithm of the week
 
 <!-- ALGO_START -->
-> **Algo of the week: Dynamic programming (0/1 knapsack)** — Builds solutions to subproblems in a table to avoid recomputing overlapping work.
+> **Algo of the week: Two pointers** — Uses two indices moving toward each other to solve array problems in linear time.
 >
-> Time: `O(nW)` · Space: `O(nW)` · [Learn more](https://en.wikipedia.org/wiki/Knapsack_problem)
+> Time: `O(n)` · Space: `O(1)` · [Learn more](https://www.geeksforgeeks.org/two-pointers-technique/)
 >
 > *rotates every Monday · [see all algos](algos.json)*
 <!-- ALGO_END -->

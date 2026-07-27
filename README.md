@@ -77,9 +77,9 @@
 ## ⚙️ Algorithm of the week
 
 <!-- ALGO_START -->
-> **Algo of the week: Two pointers** — Uses two indices moving toward each other to solve array problems in linear time.
+> **Algo of the week: Sliding window** — Maintains a window of elements that slides across an array to track a running result.
 >
-> Time: `O(n)` · Space: `O(1)` · [Learn more](https://www.geeksforgeeks.org/two-pointers-technique/)
+> Time: `O(n)` · Space: `O(1)` · [Learn more](https://www.geeksforgeeks.org/window-sliding-technique/)
 >
 > *rotates every Monday · [see all algos](algos.json)*
 <!-- ALGO_END -->

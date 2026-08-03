@@ -77,9 +77,9 @@
 ## ⚙️ Algorithm of the week
 
 <!-- ALGO_START -->
-> **Algo of the week: Sliding window** — Maintains a window of elements that slides across an array to track a running result.
+> **Algo of the week: Floyd's cycle detection** — Uses fast and slow pointers to detect a cycle in a linked list in constant space.
 >
-> Time: `O(n)` · Space: `O(1)` · [Learn more](https://www.geeksforgeeks.org/window-sliding-technique/)
+> Time: `O(n)` · Space: `O(1)` · [Learn more](https://en.wikipedia.org/wiki/Cycle_detection#Floyd's_tortoise_and_hare)
 >
 > *rotates every Monday · [see all algos](algos.json)*
 <!-- ALGO_END -->

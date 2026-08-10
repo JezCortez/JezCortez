@@ -77,9 +77,9 @@
 ## ⚙️ Algorithm of the week
 
 <!-- ALGO_START -->
-> **Algo of the week: Floyd's cycle detection** — Uses fast and slow pointers to detect a cycle in a linked list in constant space.
+> **Algo of the week: Kadane's algorithm** — Finds the maximum sum subarray by tracking the best running sum seen so far.
 >
-> Time: `O(n)` · Space: `O(1)` · [Learn more](https://en.wikipedia.org/wiki/Cycle_detection#Floyd's_tortoise_and_hare)
+> Time: `O(n)` · Space: `O(1)` · [Learn more](https://en.wikipedia.org/wiki/Maximum_subarray_problem)
 >
 > *rotates every Monday · [see all algos](algos.json)*
 <!-- ALGO_END -->

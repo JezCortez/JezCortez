@@ -77,9 +77,9 @@
 ## ⚙️ Algorithm of the week
 
 <!-- ALGO_START -->
-> **Algo of the week: Kadane's algorithm** — Finds the maximum sum subarray by tracking the best running sum seen so far.
+> **Algo of the week: Topological sort** — Orders nodes in a DAG so every directed edge goes from earlier to later in the order.
 >
-> Time: `O(n)` · Space: `O(1)` · [Learn more](https://en.wikipedia.org/wiki/Maximum_subarray_problem)
+> Time: `O(V + E)` · Space: `O(V)` · [Learn more](https://en.wikipedia.org/wiki/Topological_sorting)
 >
 > *rotates every Monday · [see all algos](algos.json)*
 <!-- ALGO_END -->

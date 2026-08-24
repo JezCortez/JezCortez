@@ -77,9 +77,9 @@
 ## ⚙️ Algorithm of the week
 
 <!-- ALGO_START -->
-> **Algo of the week: Topological sort** — Orders nodes in a DAG so every directed edge goes from earlier to later in the order.
+> **Algo of the week: Union-find (disjoint set)** — Tracks connected components efficiently using path compression and union by rank.
 >
-> Time: `O(V + E)` · Space: `O(V)` · [Learn more](https://en.wikipedia.org/wiki/Topological_sorting)
+> Time: `O(α(n)) per op` · Space: `O(n)` · [Learn more](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
 >
 > *rotates every Monday · [see all algos](algos.json)*
 <!-- ALGO_END -->

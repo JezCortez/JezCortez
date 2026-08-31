@@ -77,9 +77,9 @@
 ## ⚙️ Algorithm of the week
 
 <!-- ALGO_START -->
-> **Algo of the week: Union-find (disjoint set)** — Tracks connected components efficiently using path compression and union by rank.
+> **Algo of the week: Heap sort** — Builds a max-heap then repeatedly extracts the maximum to produce a sorted array.
 >
-> Time: `O(α(n)) per op` · Space: `O(n)` · [Learn more](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
+> Time: `O(n log n)` · Space: `O(1)` · [Learn more](https://en.wikipedia.org/wiki/Heapsort)
 >
 > *rotates every Monday · [see all algos](algos.json)*
 <!-- ALGO_END -->

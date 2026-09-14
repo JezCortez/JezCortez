@@ -77,9 +77,9 @@
 ## ⚙️ Algorithm of the week
 
 <!-- ALGO_START -->
-> **Algo of the week: Backtracking** — Incrementally builds candidates for a solution and abandons branches that fail constraints.
+> **Algo of the week: Trie (prefix tree)** — A tree of characters that enables fast prefix search and autocomplete operations.
 >
-> Time: `O(b^d) worst case` · Space: `O(d)` · [Learn more](https://en.wikipedia.org/wiki/Backtracking)
+> Time: `O(m) per op` · Space: `O(ALPHABET × n)` · [Learn more](https://en.wikipedia.org/wiki/Trie)
 >
 > *rotates every Monday · [see all algos](algos.json)*
 <!-- ALGO_END -->

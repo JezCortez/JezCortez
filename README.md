@@ -77,9 +77,9 @@
 ## ⚙️ Algorithm of the week
 
 <!-- ALGO_START -->
-> **Algo of the week: Bellman-Ford algorithm** — Finds shortest paths from a source even when edges have negative weights.
+> **Algo of the week: Counting sort** — Sorts integers by counting occurrences — beats O(n log n) when the value range is small.
 >
-> Time: `O(VE)` · Space: `O(V)` · [Learn more](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm)
+> Time: `O(n + k)` · Space: `O(k)` · [Learn more](https://en.wikipedia.org/wiki/Counting_sort)
 >
 > *rotates every Monday · [see all algos](algos.json)*
 <!-- ALGO_END -->

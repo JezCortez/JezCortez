@@ -77,9 +77,9 @@
 ## ⚙️ Algorithm of the week
 
 <!-- ALGO_START -->
-> **Algo of the week: Kruskal's algorithm** — Builds a minimum spanning tree by greedily adding the cheapest edge that doesn't form a cycle.
+> **Algo of the week: Binary search** — Finds a target in a sorted array by halving the search range each step.
 >
-> Time: `O(E log E)` · Space: `O(V)` · [Learn more](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm)
+> Time: `O(log n)` · Space: `O(1)` · [Learn more](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 >
 > *rotates every Monday · [see all algos](algos.json)*
 <!-- ALGO_END -->

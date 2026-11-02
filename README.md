@@ -77,9 +77,9 @@
 ## ⚙️ Algorithm of the week
 
 <!-- ALGO_START -->
-> **Algo of the week: Merge sort** — Divides the array in half recursively, then merges sorted halves back together.
+> **Algo of the week: Quick sort** — Picks a pivot, partitions elements around it, then recurses on each partition.
 >
-> Time: `O(n log n)` · Space: `O(n)` · [Learn more](https://en.wikipedia.org/wiki/Merge_sort)
+> Time: `O(n log n) avg` · Space: `O(log n)` · [Learn more](https://en.wikipedia.org/wiki/Quicksort)
 >
 > *rotates every Monday · [see all algos](algos.json)*
 <!-- ALGO_END -->

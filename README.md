@@ -77,9 +77,9 @@
 ## ⚙️ Algorithm of the week
 
 <!-- ALGO_START -->
-> **Algo of the week: Breadth-first search** — Explores a graph level by level using a queue — ideal for shortest paths.
+> **Algo of the week: Depth-first search** — Explores as far as possible down each branch before backtracking.
 >
-> Time: `O(V + E)` · Space: `O(V)` · [Learn more](https://en.wikipedia.org/wiki/Breadth-first_search)
+> Time: `O(V + E)` · Space: `O(V)` · [Learn more](https://en.wikipedia.org/wiki/Depth-first_search)
 >
 > *rotates every Monday · [see all algos](algos.json)*
 <!-- ALGO_END -->
